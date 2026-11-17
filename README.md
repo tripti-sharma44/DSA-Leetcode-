@@ -2,7 +2,7 @@
 
 Welcome to my Data Structures and Algorithms practice repository!
 
-This repository contains my solutions to 16 LeetCode problems assigned as part of my DSA coursework. I am solving these problems using **C++** to improve my problem-solving skills and strengthen my understanding of Data Structures and Algorithms.
+This repository contains my solutions to LeetCode problems. I am solving these problems using **C++** to improve my problem-solving skills and strengthen my understanding of Data Structures and Algorithms.
 
 ## 🎯 Objectives
 - Improve logical thinking and problem-solving skills.
